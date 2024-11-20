@@ -1,6 +1,6 @@
 Hi, I'm Mohamed Harby 👋
 
-Computer Science Student | Aspiring Developer
+Computer Science Student | Competitive Programmer
 
 - 🎓 Second-Year Student at Helwan University, Egypt.
 - 💻 Passionate about Programming: Currently learning java script , java , Python , C++ and C.

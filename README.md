@@ -1,5 +1,9 @@
--  Hi, I’m MohamedHarby student in computer science helwan university in first year in egypt
--  I’m interested in programming 
--  I’m currently learning python and C
--  I’m looking to collaborate on a lot of projects that will help me to get a good job in future
--  you can message me in mohemadharby7@gmail.com
+Hi, I'm Mohamed Harby 👋
+
+Computer Science Student | Aspiring Developer
+
+- 🎓 First-Year Student at Helwan University, Egypt.
+- 💻 Passionate about Programming: Currently learning java script , java , Python , C++ and C.
+- 🌟 Open to Collaboration: Excited to work on projects that build skills and prepare me for a successful tech career.
+- 📫 Reach Me: mohemadharby7@gmail.com
+- Let’s create something amazing together! 🚀

@@ -22,29 +22,6 @@ database optimization. Eager to apply software engineering principles to deliver
 
 ---
 
-### 🧩 Tech Stack  
-
-| **Category** | **Technologies** |
-|---------------|------------------|
-| 💻 **Languages** | C#, JavaScript, PHP, C++, SQL |
-| 🧱 **Frameworks** | ASP.NET Core, MVC, Bootstrap |
-| 🗄️ **Databases** | SQL Server, MySQL, Entity Framework, EF Core |
-| 🧰 **Tools** | Git, GitHub, Visual Studio, VS Code |
-| 🧠 **Concepts** | OOP, Data Structures, Algorithms, Design Patterns |
-
----
-
-### 🌍 Community & Volunteering  
-👥 **180 Daraga** — Active member contributing as:  
-- 🎥 Video Team Member  
-- 🧑‍🏫 Scratch Instructor  
-- 🧩 IT Coordinator & Mentor at Events  
-- 🗂️ Project Manager at “Courses Round 2”  
-
-These roles helped me strengthen teamwork, leadership, and communication skills beyond coding.
-
----
-
 ### 📫 Connect With Me  
 
 <p align="center">

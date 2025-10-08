@@ -22,18 +22,6 @@ database optimization. Eager to apply software engineering principles to deliver
 
 ---
 
-### 💼 Projects  
-
-#### 🎨 [Art Gallery](https://github.com/MohamedHarby18/Art_Gallery)
-A full-stack e-commerce platform for art sales featuring user authentication, artwork management, and a responsive UI.  
-**Tech:** PHP, MySQL, HTML, CSS, Bootstrap, JavaScript  
-
-#### 📚 [Next Chapter](https://github.com/MohamedHarby18/Book_Store)
-An online bookstore designed using **Bootstrap** and **UML**, offering a dynamic product catalog and intuitive navigation flow.  
-**Tech:** Bootstrap, JavaScript, PHP  
-
----
-
 ### 🧩 Tech Stack  
 
 | **Category** | **Technologies** |

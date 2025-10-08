@@ -3,16 +3,15 @@
 <p align="center">
   🎯 <b>Full Stack .NET Developer</b> | 💻 <b>Computer Science Student</b> | 🚀 <b>Tech Enthusiast</b><br>
   <a href="mailto:mohemadharby7@gmail.com">📧 mohemadharby7@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/mohamed-harby-428120286">💼 LinkedIn</a> |
-  <a href="https://github.com/MohamedHarby18">🖥️ GitHub</a>
+  <a href="https://www.linkedin.com/in/mohamed-harby-428120286">💼 LinkedIn</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me  
-I'm a **Computer Science and Artificial Intelligence student at Helwan University**, specializing in **Full Stack .NET Development**.  
-Passionate about building scalable web applications, clean backend architectures, and seamless user experiences.  
-Always eager to learn, collaborate, and contribute to impactful software solutions.  
+Student in Computer Science and Artificial Intelligence at Helwan University, specializing in full-stack
+development with a focus on .NET technologies. Skilled in backend architecture, API design, and
+database optimization. Eager to apply software engineering principles to deliver real-world solutions.
 
 ---
 

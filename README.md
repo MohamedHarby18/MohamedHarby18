@@ -2,8 +2,6 @@
 
 <p align="center">
   🎯 <b>Full Stack .NET Developer</b> | 💻 <b>Computer Science Student</b> | 🚀 <b>Tech Enthusiast</b><br>
-  <a href="mailto:mohemadharby7@gmail.com">📧 mohemadharby7@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/mohamed-harby-428120286">💼 LinkedIn</a>
 </p>
 
 ---

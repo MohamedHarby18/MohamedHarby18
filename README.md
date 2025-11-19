@@ -1,22 +1,22 @@
 <h1 align="center">👋 Hi, I'm Mohamed Harby</h1>
 
 <p align="center">
-  🎯 <b>Full Stack .NET Developer</b> | 💻 <b>Computer Science Student</b> | 🚀 <b>Tech Enthusiast</b><br>
+  <b>Full Stack .NET Developer</b> | <b>Computer Science Student</b> | <b>Tech Enthusiast</b><br>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
+### About Me  
 Student in Computer Science and Artificial Intelligence at Helwan University, specializing in full-stack
 development with a focus on .NET technologies. Skilled in backend architecture, API design, and
 database optimization. Eager to apply software engineering principles to deliver real-world solutions.
 
 ---
 
-### 🧠 Currently Working On  
-- 🧩 Developing full-stack projects using **ASP.NET Core**, **C#**, and **Entity Framework**  
-- 💻 Building responsive frontends with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**  
-- ⚙️ Expanding my knowledge in **Software Architecture**, **APIs**, and **Design Patterns**
+### Currently Working On  
+- Developing full-stack projects using **ASP.NET Core**, **C#**, and **Entity Framework**  
+- Building responsive frontends with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**  
+- Expanding my knowledge in **Software Architecture**, **APIs**, and **Design Patterns**
 
 ---
 
